@@ -28,7 +28,6 @@ body {
 .header-headline-strong,
 .card-header-headline{
     color: hsl(234, 12%, 34%);
-    margin: 1rem 1rem 0 1rem;
 }
 .header-text,
 .card-header-text{
@@ -41,6 +40,9 @@ body {
 .header-headline-strong{
     font-weight: 600;
     margin: .8rem 0 0 0;
+}
+.header-header{
+    margin: 1rem 1rem 0 1rem;
 }
 .header-text{
     margin: 1rem 1rem 0 1rem;
