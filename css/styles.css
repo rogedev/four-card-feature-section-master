@@ -109,3 +109,25 @@ body {
     align-self: flex-end;
     margin: 0 3rem 1rem 0;
 }
+@media (min-width: 1140px){
+    .container {
+        margin: 5rem 0 0 0;
+        max-width: 1440px;
+    }
+    .card {
+        width: 100%;
+        flex-direction: row;
+    }
+    .card-item{
+        max-height: 300px;
+        width: 400px;
+    }
+    .cyan{
+        align-self:center;
+    }
+    .blue{
+        align-self: center;
+    }
+
+
+}
