@@ -114,6 +114,13 @@ body {
         margin: 5rem 0 0 0;
         max-width: 1440px;
     }
+    .header{
+        width:60%;
+    }
+    .header-headline,
+    .header-headline-strong{
+        font-size:2em   
+    }
     .card {
         width: 100%;
         flex-direction: row;
@@ -128,6 +135,4 @@ body {
     .blue{
         align-self: center;
     }
-
-
 }
