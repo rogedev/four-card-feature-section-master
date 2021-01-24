@@ -85,6 +85,7 @@ body {
 }
 
 .card-item {
+    background-color: #fff;
     display: flex;
     flex-direction: column;
     border-radius: .5rem;
@@ -119,7 +120,7 @@ body {
     }
     .header-headline,
     .header-headline-strong{
-        font-size:2em   
+        font-size:2em
     }
     .card {
         width: 100%;
