@@ -112,7 +112,7 @@ body {
 }
 @media (min-width: 1140px){
     .container {
-        margin: 5rem 0 0 0;
+        margin: 3rem 0 0 0;
         max-width: 1440px;
     }
     .header{
